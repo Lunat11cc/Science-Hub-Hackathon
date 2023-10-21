@@ -1,0 +1,4 @@
+.accept-btn:hover, .decline-btn:hover {
+    opacity: 0.75;
+    transition: 0.2s ease
+}
